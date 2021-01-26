@@ -17,10 +17,10 @@
 	"hud_crosshair_1"
 	{
 		// Change these
-		"enabled"													"0"
-		"visible"													"0"
-		"labeltext"													"F"
-		"font"														"Crosshair: TF2Crosshairs | Size: 17 | Outline: On"
+		"enabled"													"1"
+		"visible"													"1"
+		"labeltext"													"~"
+		"font"														"Crosshair: TF2Crosshairs | Size: 16 | Outline: On"
 		"fgcolor"													"hud_crosshair_1"
 		
 		// Defaults
